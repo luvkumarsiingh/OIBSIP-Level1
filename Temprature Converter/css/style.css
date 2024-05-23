@@ -30,10 +30,7 @@ body {
     }
   }
     
-  .logo{
-    display: flex;
-    justify-content: center;
-  }
+
   .temprature-converter{
     background-color:white;
     width:100%;
