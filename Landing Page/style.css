@@ -34,7 +34,7 @@ html,body {
 
 
 .lg_text{
-    font-size: 72px;
+    font-size: 80px;
     font-weight:400;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 }
 
@@ -83,3 +83,6 @@ html,body {
     align-items: center;
 }
 
+.text_container h2{
+    font-size: 50px;
+}

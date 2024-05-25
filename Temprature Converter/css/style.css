@@ -53,6 +53,11 @@ body {
     text-align: center;
 
    }
+
+   .logo{
+    display: flex;
+    justify-content: center;
+   }
   
     .result{
         text-align: center;
